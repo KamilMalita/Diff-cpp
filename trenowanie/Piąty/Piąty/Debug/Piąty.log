@@ -1,7 +1,0 @@
-﻿  Pracownik.cpp
-  Generowanie kodu...
-e:\repozytorium\rozpoczęcie\piąty\piąty\pracownik.cpp(85): warning C4715: "Pracownik::operator=”: niewszystkie ścieżki kodu zwracają wartość
-  Pomijanie... (nie wykryto odpowiednich zmian)
-  MAIN.cpp
-  ListaZatrudnionych.cpp
-  Piąty.vcxproj -> E:\Repozytorium\Rozpoczęcie\Piąty\Piąty\Debug\Piąty.exe
